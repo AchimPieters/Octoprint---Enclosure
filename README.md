@@ -5,10 +5,10 @@ For More Information Visit http://www.studiopieters.nl
 
 ## Note: Work In progress!
 
-- [ ] Debugging the Main Code
-- [ ] Testing The Hardware
-- [ ] Add manual positioning code
-- [ ] Add positioning to EEPROM code
+- [ ] ..
+- [ ] ..
+- [ ] ..
+- [ ] ..
 - [ ] ..
 
 
